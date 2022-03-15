@@ -1,4 +1,4 @@
-Question No. 1
+// Question No. 1
 
 import 'dart:io';
 
@@ -15,7 +15,7 @@ void main() {
   print("\n${a} ordered ${c} ${b} on Daraz");
 }
 
-Question No. 2
+// Question No. 2
 
 import 'dart:io';
 
@@ -31,7 +31,7 @@ void main() {
   print("\nAddition of ${num1} and ${num2} = ${num3}"); //Addition
 }
 
-Question No. 3
+// Question No. 3
 
 import 'dart:io';
 
@@ -55,7 +55,7 @@ void main() {
   print("\nModulus of ${num1} and ${num2} = ${mod}"); //Module
 }
 
-Question No. 4
+// Question No. 4
 
 import 'dart:io';
 
@@ -72,7 +72,7 @@ void main() {
   print("\nTotal cost for ${no_of_tickets} Tickets:  ${prize}");
 }
 
-Questions No. 5
+// Questions No. 5
 
 import 'dart:io';
 
@@ -85,7 +85,7 @@ void main() {
   print("\n${celsius} Celsius into Farenheit is ${farenheit}");
 }
 
-Question No. 6
+// Question No. 6
 
 import 'dart:io';
 
@@ -109,7 +109,7 @@ void main() {
   print("\nTotal cost:  ${quantity_1 * item_1 + quantity_2 * item_2}");
 }
 
-Question No. 7
+// Question No. 7
 
 import 'dart:io';
 
@@ -120,7 +120,7 @@ void main() {
   print("Percentage : ${(obtained_marks / total_marks) * 100}");
 }
 
-Question No.8
+// Question No.8
 
 import 'dart:io';
 
@@ -132,7 +132,7 @@ void main() {
       "\n10 USD is equal to ${dollar * 175.70}\n25 Saudi Ryal is euqal to ${ryal * 46.85}\nTotal Money in PKR = ${(dollar * 175.70) + (ryal * 46.85)}");
 }
 
-Question No. 9
+// Question No. 9
 
 import 'dart:io';
 
